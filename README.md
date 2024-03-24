@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Meu nome é Amanda Breidenbach</h1>
-<h3 align="center">Tenho 40 anos e nesse momento da minha vida que meus filhos cresceram, senti uma necessidade imensa de me realizar profissionalmente, sou formada em Sistema de Informações e estou a procura de um emprego.  </h3>
+<h3 align="center">Após anos dedicados à criação e educação de meus filhos, hoje me encontro em uma encruzilhada emocional e profissional ao ver meus filhos crescidos e se tornando independentes. Sinto que chegou o momento de  retornar ao mercado de trabalho, um momento de redescoberta e reinvenção, pois fiquei muitos anos fora do mercado de trabalho. </h3>
 
 - 💬 Pergunte sobre **o que desejar**
 
