@@ -5,8 +5,9 @@
 
 <h3 align="left">Minhas Conexões:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanda breidenbach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda breidenbach" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanda breidenbach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amandabrei" height="30" width="40" /></a>
 <a href="https://instagram.com/amanda.breidenbach.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanda.breidenbach.1" height="30" width="40" /></a>
+<a href="https://github.com/Amandabrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amandabrei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Interesses:</h3>
